@@ -1,3 +1,5 @@
 crops
 .idea
 *.pyc
+GasPumpOCR_Env
+venv
