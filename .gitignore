@@ -3,3 +3,4 @@ crops
 *.pyc
 GasPumpOCR_Env
 venv
+.DS_Store
